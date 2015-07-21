@@ -7,7 +7,7 @@ import android.graphics.drawable.Drawable;
  */
 public class PackageInfoBean {
     
-	public CharSequence mAppName = "";
+    public CharSequence mAppName = "";
     public String mAppPackageName = "";
     public String mVersionName = "";
     public int mVersionCode = 0;
