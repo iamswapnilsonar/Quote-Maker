@@ -1,3 +1,5 @@
+package in.ameyapps.android.sample;
+
 import android.content.pm.ApplicationInfo;
 import android.graphics.drawable.Drawable;
 
@@ -7,7 +9,7 @@ import android.graphics.drawable.Drawable;
  */
 public class PackageInfoBean {
     
-    public CharSequence mAppName = "";
+	public CharSequence mAppName = "";
     public String mAppPackageName = "";
     public String mVersionName = "";
     public int mVersionCode = 0;
